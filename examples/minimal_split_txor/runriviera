@@ -1,0 +1,3 @@
+cd generated_tb/sim
+cd ../dut
+vsimsa -do ../sim/compile_riviera.do
